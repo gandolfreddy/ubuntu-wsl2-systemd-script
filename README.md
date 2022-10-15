@@ -26,3 +26,5 @@ systemctl
 If you don't get an error and see a list of units, the script worked.
 
 Have fun using systemd on your Ubuntu WSL2 image. You may use and change and distribute this script in whatever way you'd like. 
+
+## tutorial in Mandarin: https://ithelp.ithome.com.tw/articles/10255920
